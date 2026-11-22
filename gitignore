@@ -1,0 +1,13 @@
+# data and model files: too large / not ours to redistribute
+data/
+*.mat
+*.npz
+*.pt
+*.pth
+checkpoints/
+results/*.npz
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
